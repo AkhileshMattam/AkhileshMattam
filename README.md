@@ -8,7 +8,7 @@
 • 👨‍💻 Member of [Code X](https://github.com/codex-iter)  
 • 📫 Follow me: [Instagram](https://www.instagram.com/i_am.akhilesh/) and [Linkedin](https://www.linkedin.com/in/akhilesh-mattam-2247851b3/) 
 
-![](https://komarev.com/ghpvc/?username=AkhileshMattam&color=green)
+![](https://komarev.com/ghpvc/?username=AkhileshMattam&color=blue)
 
 <img src="https://github-readme-stats.vercel.app/api?username=AkhileshMattam&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshMattam&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
