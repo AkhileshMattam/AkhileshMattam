@@ -5,7 +5,7 @@
 • 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter)  
 • 🌱 I’m currently learning Java & Python  
 • ✍ Ask me anything i'm ready to help  
-• 👨‍💻 Member of [Code X](https://github.com/codex-iter)  
+• 👨‍💻 Member of [Codex](https://github.com/codex-iter)  
 • 📫 Follow me: [Instagram](https://www.instagram.com/i_am.akhilesh/) and [Linkedin](https://www.linkedin.com/in/akhilesh-mattam-2247851b3/) 
 
 ![](https://komarev.com/ghpvc/?username=AkhileshMattam&color=blue)
